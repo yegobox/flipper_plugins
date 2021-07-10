@@ -25,6 +25,7 @@ class _StatusPageState extends State<StatusPage> {
         children: [
           Text(
             "Privacy",
+            key: Key('status'),
             style: TextStyle(
                 fontSize: 16, color: primary, fontWeight: FontWeight.w500),
           )

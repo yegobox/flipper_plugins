@@ -4,10 +4,8 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:integration_test/integration_test.dart';
 
 import 'package:flipper/main.dart' as app;
-// flutter drive \
-//   --driver=test_driver/integration_test.dart \
-//   --target=integration_test/app_test.dart -d windows
-//
+//  flutter drive    --driver=test_driver/integration_test.dart    --target=integration_test/app_test.dart -d windows
+// flutter drive    --driver=test_driver/integration_test.dart    --target=integration_test/app_test.dart -d emulator-5554
 
 void main() {
   IntegrationTestWidgetsFlutterBinding.ensureInitialized();

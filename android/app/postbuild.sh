@@ -18,7 +18,7 @@ echo $GCLOUD_KEY_FILE | base64 --decode > ./gcloud_key_file.json
 gcloud auth activate-service-account --key-file=gcloud_key_file.json
 
 # Select YOUR Firebase project through which want to run the tests
-gcloud --quiet config set project instrumentation-9498c
+gcloud --quiet config set project yegobox-2ee43
 
 # Run the Flutter integration tests as if they were regular Android instrumentation tests
 gcloud firebase test android run \

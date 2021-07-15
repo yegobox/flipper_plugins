@@ -33,6 +33,10 @@ dependencies:
   flutter_svg: 0.22.0
   animate_do: 2.0.0
   bubble:  1.2.1
+  stacked: ^2.1.4
+  stacked_hooks:
+  stacked_services: 
+  logger:
   flipper_chat:
     path: 'packages/flipper_chat'
 

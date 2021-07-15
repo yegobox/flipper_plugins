@@ -39,6 +39,8 @@ dependencies:
   logger:
   flipper_chat:
     path: 'packages/flipper_chat'
+  flipper_routing:
+    path: 'packages/flipper_routing'
 
 dev_dependencies:
   flutter_test:

@@ -3,11 +3,11 @@ library flipper_routing;
 import 'package:stacked/stacked_annotations.dart';
 import 'package:stacked_services/stacked_services.dart';
 
-import 'example.dart';
+import 'package:flipper_chat/pages/root_app.dart';
 
 @StackedApp(
   routes: [
-    MaterialRoute(page: Example, initial: true),
+    MaterialRoute(page: RootApp, initial: true),
   ],
   dependencies: [
     LazySingleton(classType: NavigationService),

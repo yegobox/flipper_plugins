@@ -1,0 +1,46 @@
+{
+    "save": "Save",
+    "@save": {
+        "description": "The conventional newborn programmer greeting"
+    },
+    "retailPrice": "Retail Price",
+    "@retailPrice": {
+        "description": "The conventional newborn programmer greeting"
+    },
+    "supplyPrice": "Supply Price",
+    "@supplyPrice": {
+        "description": "The conventional newborn programmer greeting"
+    },
+    "currentSale": "Current Sale",
+    "@currentSale": {
+        "description": "The conventional newborn programmer greeting"
+    },
+    "addProduct": "Add Product",
+    "@addProduct": {
+        "description": "The conventional newborn programmer greeting"
+    },
+    "tickets": "Tickets",
+    "@tickets": {
+        "description": "The conventional newborn programmer greeting"
+    },
+    "charge": "Charge",
+    "@charge": {
+        "description": "The conventional newborn programmer greeting"
+    },
+    "productName": "Product Name",
+    "@productName": {
+        "description": "The conventional newborn programmer greeting"
+    },
+    "flipperSetting": "Flipper Settings",
+    "@flipperSetting": {
+        "description": "The conventional newborn programmer greeting"
+    },
+    "options": "Options",
+    "@options": {
+        "description": "Amahitamo"
+    },
+    "saveTicket": "You can not save a ticket without adding a note!",
+    "@saveTicket": {
+        "description": "Amahitamo"
+    }
+}

@@ -1,8 +1,7 @@
 import 'package:flipper/localization.dart';
-import 'package:flipper/routes.router.dart';
+import 'package:flipper_routing/routes.router.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:firebase_dynamic_links/firebase_dynamic_links.dart';
 import 'package:stacked/stacked.dart';
 import 'package:flipper_models/view_models/drawer_viewmodel.dart';
 import 'package:flipper_services/abstractions/dynamic_link.dart';
@@ -11,7 +10,7 @@ import 'package:flipper_services/locator.dart';
 import 'business_list.dart';
 import 'custom_widgets.dart';
 import 'package:flipper_models/business.dart';
-import 'package:flipper/constants.dart';
+import 'package:flipper_services/constants.dart';
 
 class FlipperDrawer extends StatefulWidget {
   FlipperDrawer({Key? key, required this.businesses}) : super(key: key);
